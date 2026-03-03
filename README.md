@@ -6,7 +6,7 @@
 
 ---
 
-👩‍💻 About Me
+# 👩‍💻 About Me
 
 - 🔭 Currently working as a Web Developer
 - 💡 Experienced in Django and React.js
@@ -46,7 +46,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
- 🚀 Projects
+# 🚀 Projects
 
 🩺 Virtual Doctor with Smart Pharmacy
 - Online consultation system
@@ -65,7 +65,7 @@
 
 ---
 
- 📫 Connect With Me
+ # 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/sruthi-cs
 - 📧 Email: sruthics742001@gmail.com
