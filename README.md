@@ -1,16 +1,71 @@
-## Hi there 👋
+# 👋 Hi, I'm Sruthi C S
 
-<!--
-**sruthics7/sruthics7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Developer | Python Full Stack Developer  
+🌐 React.js | Django | REST APIs  
+🚀 Passionate about building clean and user-friendly web applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍💻 About Me
+
+- 🔭 Currently working as a Web Developer
+- 💡 Experienced in Django and React.js
+- 🎯 Interested in Backend Development & API Integration
+- 🛠 Love solving real-world problems using code
+- 📚 Continuous learner in web technologies
+
+---
+
+🛠 Tech Stack
+
+**Frontend**
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+- React.js
+
+**Backend**
+- Python
+- Django
+- Django REST Framework
+
+**Database**
+- SQLite
+- MySQL
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+- Postman
+
+---
+
+ 🚀 Projects
+
+🩺 Virtual Doctor with Smart Pharmacy
+- Online consultation system
+- Smart prescription handling
+- Admin dashboard
+
+🌴 Wayanad Tourism Website
+- Responsive tourism website
+- Attractive UI design
+- Informational travel pages
+
+ 🎓 Student Exam Portal (React + Django)
+- Authentication system
+- Student dashboard
+- Exam and result management
+
+---
+
+ 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/sruthi-cs
+- 📧 Email: (Add your professional email)
+
+---
+
+⭐ “Code. Learn. Improve. Repeat.”
