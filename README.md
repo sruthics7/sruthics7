@@ -16,31 +16,11 @@
 
 ---
 
-🛠 Tech Stack
+ 🛠 Tech Stack
 
-**Frontend**
-- HTML5
-- CSS3
-- Bootstrap
-- JavaScript
-- React.js
-
-**Backend**
-- Python
-- Django
-- Django REST Framework
-
-**Database**
-- SQLite
-- MySQL
-
-**Tools**
-- Git
-- GitHub
-- VS Code
-- Postman
-
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
  🚀 Projects
 
