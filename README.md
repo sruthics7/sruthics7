@@ -68,7 +68,7 @@
  📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/sruthi-cs
-- 📧 Email: (Add your professional email)
+- 📧 Email: sruthics742001@gmail.com
 
 ---
 
