@@ -48,17 +48,22 @@
 
 ## 🚀 Projects
 
-🩺 Virtual Doctor with Smart Pharmacy
+Virtual Doctor with Smart Pharmacy
 - Online consultation system
 - Smart prescription handling
 - Admin dashboard
 
-🌴 Wayanad Tourism Website
+Wayanad Tourism Website
 - Responsive tourism website
 - Attractive UI design
 - Informational travel pages
 
- 🎓 Student Exam Portal (React + Django)
+HRM Software (React + Django)
+- Authentication system
+- Student dashboard
+- Exam and result management
+
+Student Exam Portal (React + Django)
 - Authentication system
 - Student dashboard
 - Exam and result management
