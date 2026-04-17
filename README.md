@@ -53,7 +53,7 @@ Virtual Doctor with Smart Pharmacy
 - Smart prescription handling
 - Admin dashboard
 
-Whatsapp Bulk Messeging Sytem
+Whatsapp Bulk Messeging System
 - authentication system
 - Group and individual messeging facility
 - Message report and status tracking 
