@@ -53,20 +53,20 @@ Virtual Doctor with Smart Pharmacy
 - Smart prescription handling
 - Admin dashboard
 
-Wayanad Tourism Website
-- Responsive tourism website
-- Attractive UI design
-- Informational travel pages
+Whatsapp Bulk Messeging Sytem
+- authentication system
+- Group and individual messeging facility
+- Message report and status tracking 
 
-HRM Software (React + Django)
+HRM Software 
 - Authentication system
-- Student dashboard
-- Exam and result management
+- Employee dashboard
+- Leave and attendance management
 
-Student Exam Portal (React + Django)
+Admin Dashboard 
 - Authentication system
-- Student dashboard
-- Exam and result management
+- User dashboard
+- user and product management
 
 ---
 
