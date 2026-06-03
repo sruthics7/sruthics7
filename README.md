@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sruthi C S
 
-💻 Web Developer | Python Full Stack Developer  
+💻 Python Full Stack Developer  
 🌐 React.js | Django | REST APIs  
 🚀 Passionate about building clean and user-friendly web applications  
 
