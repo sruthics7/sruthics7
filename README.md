@@ -8,7 +8,7 @@
 
 ## 👩‍💻 About Me
 
-- 🔭 Currently working as a Web Developer
+- 🔭 Currently working as a Python Full Stack Developer
 - 💡 Experienced in Django and React.js
 - 🎯 Interested in Backend Development & API Integration
 - 🛠 Love solving real-world problems using code
